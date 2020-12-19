@@ -20,10 +20,10 @@ let axesDefault = [
 ]
 
 let buttonsDefault = [
-    {label: "A"}, //0
-    {label: "B"}, //1
-    {label: "X"}, //2
-    {label: "Y"}, //3
+    {label: "Act. Down"}, //0
+    {label: "Act. Right"}, //1
+    {label: "Act. Left"}, //2
+    {label: "Act. Up"}, //3
     {label: "L1"}, //4
     {label: "R1"}, //5
     {label: "L2"}, //6
@@ -32,10 +32,10 @@ let buttonsDefault = [
     {label: "Start"}, //9
     {label: "L3"}, //10
     {label: "R3"}, //11
-    {label: "Up"}, //12
-    {label: "Down"}, //13
-    {label: "Left"}, //14
-    {label: "Right"}, //15
+    {label: "Dpad Up"}, //12
+    {label: "Dpad Down"}, //13
+    {label: "Dpad Left"}, //14
+    {label: "Dpad Right"}, //15
     {label: "Home"} //16
 ]
 

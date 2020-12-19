@@ -11,7 +11,7 @@ function main(){
 		const axisCount = 4;
 
 		const emulatedGamepad = {
-			id: "ControlStadia emulated gamepad",
+			id: "ControlStadia emulated gamepad (STANDARD GAMEPAD Vendor: 057e Product: 2009)",
 			index: 0,
 			connected: true,
 			timestamp: 0,
